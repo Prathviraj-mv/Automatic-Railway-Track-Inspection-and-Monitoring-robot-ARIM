@@ -1,0 +1,2 @@
+# Automatic-Railway-Track-Inspection-and-Monitoring-robot-ARIM-
+ARIM is a self-contained robotic system designed to continuously monitor railway tracks for structural defects such as cracks, misalignments, and surface wear. The system uses a Raspberry Pi 5 running MobileNetV2 for on-device inference, eliminating the need for cloud processing and enabling real-time decision making in remote environments.
