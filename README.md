@@ -13,14 +13,14 @@ Autonomous rail-mounted inspection robot that detects track defects using edge A
 </div>
 <br>
 <div align="center">
-  <img src="./IMAGES/Screenshot 2026-03-18 154846.png" width="60%" />
+  <img src="./IMAGES/Screenshot 2026-03-18 154846.png" width="45%" />
   <img src="./IMAGES/Screenshot 2026-03-18 155420.png" width="45%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./IMAGES/Screenshot 2026-03-18 160404.png" width="60%" />
+  <img src="./IMAGES/Screenshot 2026-03-18 160404.png" width="45%" />
   <img src="./IMAGES/WhatsApp Image 2026-03-18 at 16.04.42.jpeg" width="45%" />
 </div>
 
