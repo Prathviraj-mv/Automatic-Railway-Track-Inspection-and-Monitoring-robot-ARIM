@@ -4,6 +4,26 @@
 
 Autonomous rail-mounted inspection robot that detects track defects using edge AI and marks damaged locations in real time.
 
+## 📸 Image Showcase
+
+<div align="center">
+  <img src="Screenshot 2026-03-18 154846.png" width="45%" />
+  <img src="Screenshot 2026-03-18 155420.png" width="45%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="Screenshot 2026-03-18 160404.png" width="45%" />
+  <img src="WhatsApp Image 2026-03-18 at 16.04.42.jpeg" width="45%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="WhatsApp Image 2026-03-19 at 11.51.17.jpeg" width="45%" />
+  <img src="WhatsApp Image 2026-03-19 at 12.03.20.jpeg" width="45%" />
+</div>
 ---
 
 ## 📌 Overview
